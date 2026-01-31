@@ -114,3 +114,17 @@ If you find this repository helpful, please consider **starring ⭐ the repo**.
 
 **Author:** Khair Baksh Noor
 **Focus:** Python | Data Analysis | NumPy | Pandas
+
+📬 Contact & Learning Journey
+
+This repository reflects my learning journey in Python data analysis, focusing on writing clean, understandable, and practical code.
+
+I am continuously improving my skills and expanding this repository as I learn new concepts and tools related to Data Science, Machine Learning, and Artificial Intelligence.
+
+📌 Feedback, suggestions, and collaboration opportunities are always appreciated.
+
+📜 Disclaimer
+
+This repository is created for educational and learning purposes. All examples are implemented to demonstrate concepts clearly and may not represent production-level optimization.
+
+✨ Happy Coding & Data Analysis! 🚀
