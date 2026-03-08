@@ -1,0 +1,12 @@
+Name,Age,Gender,Salary,Department,Experience_Years,Joining_Date,Performance_Score
+Ali,22.0,Male,50000.0,IT,2.0,2021-05-12,3.5
+Sara,25.0,Female,60000.0,HR,3.0,2020-03-15,4.2
+Ahmed,,Male,55000.0,IT,2.0,2022-07-01,
+Ayesha,29.0,Female,,Finance,5.0,2019-01-20,4.8
+Bilal,21.0,Male,48000.0,IT,1.0,2023-06-10,3.9
+Fatima,24.0,,62000.0,HR,4.0,2020-09-05,4.1
+,23.0,Female,58000.0,Finance,,2021-11-11,3.7
+Hassan,,Male,54000.0,,3.0,2022-02-02,4.0
+Zara,26.0,Female,,IT,2.0,2019-12-30,
+Usman,22.0,Male,51000.0,HR,2.0,2021-08-18,3.8
+Ahmed,,Male,55000.0,IT,2.0,2022-07-01,
